@@ -1,0 +1,44 @@
+
+#email{
+    width: 300px;
+}
+.form-group
+{
+font-weight: bold;
+}
+
+.form-email
+{
+    font-weight: bold;
+}
+.form-exp
+{
+    font-weight: bold;
+}
+.checked {
+    color: orange;
+  }
+
+  #puchase{
+    background-color: rgba(213, 204, 204, 0.918);
+  }
+  #overall{
+    background-color: rgba(213, 204, 204, 0.918);
+  }
+
+  td{
+   text-align: center;
+   
+  }
+  #again{
+    background-color: rgba(213, 204, 204, 0.918);
+  }
+  #recommandc{
+    background-color: rgba(213, 204, 204, 0.918);
+  }
+  #sugg{
+    width:900px;
+    height: 150px;
+  }
+
+
